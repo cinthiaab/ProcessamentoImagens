@@ -1,0 +1,13 @@
+Essa são as instruções para executar o programa na sua máquina:
+
+1. Verifique se o python está instalado digitando "python -v" no prompt de comando. Caso não esteja instalado, baixe atavés desse link "https://www.python.org/downloads/"
+
+2. No VSCode, baixe a extensão do python para que seja possível executar o python através do botão Run no VsCode.
+
+3. Abra o terminal e execute os seguintes comando, linha por linha, no terminal do VSCode:
+	python -m pip install -U pip
+	pip install opencv-python
+	pip install Pillow
+	python -m pip install -U matplotlib
+
+4. Execute o arquivo main.py clicando no botão Run, esse botão é o que tem um triangulo |>
